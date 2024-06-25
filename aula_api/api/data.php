@@ -3,43 +3,45 @@
 return [
     [
         'nome' => 'Stephanie',
-        'email' => 'stephanie@gmail.com'
-    ],
-    [
-        'nome' => 'Maria',
-        'email' => 'maria@gmail.com'
-    ],
-    [
-        'nome' => 'Thifany',
-        'email' => 'thifao@gmail.com'
+        'email' => 'ary@gmail' 
     ],
     [
         'nome' => 'Daniel',
-        'email' => 'daniel@gmail.com'
-    ],
-    [
-        'nome' => 'Ariany',
-        'email' => 'arianyy@gmail.com'
+        'email' => 'daniellindo@gmail' 
     ],
     [
         'nome' => 'Danielle',
-        'email' => 'danizao@gmail.com'
+        'email' => 'dani@gmail' 
     ],
     [
-        'nome' => 'Eduarda',
-        'email' => 'dudao@gmail.com'
+        'nome' => 'Ana Clara',
+        'email' => 'ana@gmail' 
     ],
     [
-        'nome' => 'Igor',
-        'email' => 'iguinho@gmail.com'
-    ],
-    [
-        'nome' => 'Ana',
-        'email' => 'aninha@gmail.com'
+        'nome' => 'Anderson',
+        'email' => 'Anderson@gmail' 
     ],
     [
         'nome' => 'Isadora',
-        'email' => 'isalaranja@gmail.com'
-    ]
+        'email' => 'isa@gmail' 
+    ],
+    [
+        'nome' => 'Maria Eduarda',
+        'email' => 'maria@gmail' 
+    ],
+    [
+        'nome' => 'Maria Rita',
+        'email' => 'maria.rita@gmail' 
+    ],
+    [
+        'nome' => 'Ariany',
+        'email' => 'ary@gmail' 
+    ],
+    [
+        'nome' => 'Igor',
+        'email' => 'igor@gmail' 
+    ],
+
 ];
+
 ?>
